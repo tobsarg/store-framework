@@ -6,7 +6,8 @@
       "flex-layout.row",
       "flex-layout.col",
       "info-card#rethink",
-      "rich-text#deletar"
+      "rich-text#deletar",
+      "shelf"
     ]
   },
 
