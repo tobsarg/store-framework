@@ -42,7 +42,10 @@
     "children": [
       "product-images",
       "product-brand"
-    ],
+    ]
+  },
+
+  "product-brand": {
     "props": {
       "height": 30,
       "displayMode": "logo"
