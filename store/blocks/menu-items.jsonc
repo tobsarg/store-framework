@@ -6,8 +6,12 @@
       "itemProps": {
         "text": "Major Aplliances"
       }
-    }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#major"
+    ]
   },
+
   "menu-item#small-appliances": {
       "props":
     {
@@ -17,8 +21,12 @@
         "categoryId": 2, 
         "text": "Small Appliances"
       }
-    }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#small"
+    ]
   },
+
   "menu-item#electronics": {
       "props":
     {
@@ -28,8 +36,12 @@
         "categoryId": 3, 
         "text": "Electronics"
       }
-    }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#electronics"
+    ]
   },
+
   "menu-item#refrigerators": {
       "props":
     {
@@ -41,6 +53,7 @@
       }
     }
   },
+
   "menu-item#ovens": {
       "props":
     {
@@ -52,6 +65,7 @@
       }
     }
   },
+
   "menu-item#washers": {
       "props":
     {
@@ -63,6 +77,8 @@
       }
     }
   },
+
+
   "menu-item#mixers": {
       "props":
     {
@@ -74,6 +90,9 @@
       }
     }
   },
+
+
+
   "menu-item#toasters": {
       "props":
     {
@@ -85,6 +104,7 @@
       }
     }
   },
+
   "menu-item#coffee": {
       "props":
     {
@@ -96,6 +116,7 @@
       }
     }
   },
+
   "menu-item#tvs": {
       "props":
     {
@@ -107,6 +128,7 @@
       }
     }
   },
+
   "menu-item#laptops": {
       "props":
     {
@@ -118,6 +140,7 @@
       }
     }
   },
+
   "menu-item#cameras": {
       "props":
     {
@@ -129,4 +152,6 @@
       }
     }
   }
+
+
 }
