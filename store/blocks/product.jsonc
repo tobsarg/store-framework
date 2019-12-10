@@ -27,5 +27,32 @@
       "product-price",
       "buy-button"
     ]
+  },
+
+  "product-images": {
+    "props": {
+      "displayThumbnailsArrows": true
+    }
+  },
+
+  "product-price": {
+    "props": {
+      "showSavings": true,
+      "showListPrice": false
+    }
+  },
+
+  "product-name": {
+    "props": {
+      "showSKU": true,
+      "showBrandName": true
+    }
+  },
+
+  "buy-button#product": {
+    "props": {
+      "isOneClickBuy": true,
+      "showTooltipOnSkuNotSelected": false
+    }
   }
 }
