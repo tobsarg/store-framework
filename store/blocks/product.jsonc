@@ -35,16 +35,14 @@
 
   "product-images": {
     "props": {
-      "displayThumbnailsArrows": true,
-      "showSavings": true,
-      "showListPrice": true
+      "displayThumbnailsArrows": true
     }
   },
 
   "product-price": {
     "props": {
       "showSavings": true,
-      "showListPrice": false
+      "showListPrice": true
     }
   },
 
