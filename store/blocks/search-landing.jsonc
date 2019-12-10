@@ -1,0 +1,25 @@
+{
+    "store.custom#landing": {
+        "blocks": [
+            "image#landingbanner",
+            "search-result-layout.customQuery"
+        ]
+    },
+
+    "image#landingbanner":{
+        "props": {
+            "minWidth":"100%",
+            "src": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/electronics_banner___25d69b49f8224b369375e68513b4d593.png"
+        }
+    },
+
+    "search-result-layout.customQuery":{
+        "props":{
+            "orderByField": "OrderByReleaseDateDESC",
+            "hideUnavailableItems": true,
+            "maxItemsPerPage": 8,
+            "queryField": "Blue Top Retro Camera",
+            "mapField": "ft"
+        }
+    }
+}
